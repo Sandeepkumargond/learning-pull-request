@@ -1,6 +1,6 @@
-#This is a repo to learn pull and push requests
+# This is a repo to learn pull and push requests
 
-Authors
+Authors of this repo are:-
 
 - Aakash Tiwari
 - Ujjwal Kumar Choubey
